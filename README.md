@@ -1,3 +1,5 @@
+
+Readme · MD
 <div align="center">
   <h1>Alexandre Jardim</h1>
   <p><b>Software Engineering Student · Back-End &amp; Full Stack</b></p>
@@ -8,7 +10,7 @@
     <a href="https://github.com/AllexandreJardim">GitHub</a>
   </p>
 </div>
-## About me
+<h2> About me</h2>
  
 I'm a Software Engineering student at **FIAP**, interested in building applications that solve real-world problems.
  
@@ -47,10 +49,6 @@ My goal is to join a software development team, keep growing as an engineer and 
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br />
       <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /><br />
-      <sub><b>SQLite</b></sub>
     </td>
   </tr>
   <tr>
@@ -120,4 +118,3 @@ I'm interested in connecting with people, learning from other developers and exp
 <div align="center">
   <sub>Always learning. Always building.</sub>
 </div>
- 
